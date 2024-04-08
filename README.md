@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://tenor.com/ru/view/matrix-code-matrix-code-encryption-encrypted-gif-5662740.gif"  />
+  <img height="300" width="1200" src="https://tenor.com/ru/view/matrix-code-matrix-code-encryption-encrypted-gif-5662740.gif"  />
 </div>
 
 ###
