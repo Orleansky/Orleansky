@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.gif"  />
+  <img src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.gif"  />
 </div>
 
 ###
